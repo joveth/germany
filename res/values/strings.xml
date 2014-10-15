@@ -4,5 +4,7 @@
     <string name="app_name">德国队吧</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-
+	<string name="fragment_image_str">最新动态</string>
+    <string name="fragment_text_str">队吧日常</string>
+    <string name="fragment_both_str">精彩合集</string>
 </resources>
